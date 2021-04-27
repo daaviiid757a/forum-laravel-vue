@@ -1,2 +1,1 @@
-"# TEST" 
-"# forum-laravel-vue" 
+# Foro hecho en Laravel y Vue
