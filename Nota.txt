@@ -1,0 +1,8 @@
+Vue Js
+    - template-inline
+    - v-model
+    - v-bind
+    - v-cloak
+    - globan event bus
+
+- .$el
